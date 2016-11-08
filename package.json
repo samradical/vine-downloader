@@ -1,0 +1,33 @@
+{
+  "name": "vine-downloader",
+  "description": "",
+  "homepage": "https://github.com/samradical/vine-downloader",
+  "author": "Sam Elie <samradelie@gmail.com>",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samradical/vine-downloader.git",
+    "web": "https://github.com/samradical/vine-downloader/"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "moment": "^2.15.2",
+    "request": "^2.78.0"
+  },
+  "bugs": {
+    "url": "https://github.com/samradical/vine-downloader/issues"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/samradical/vine-downloader/raw/master/LICENSE.md"
+    }
+  ],
+  "devDependencies": {
+    "colors": "^1.1.2"
+  }
+}
